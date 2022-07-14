@@ -15,7 +15,7 @@ A Structural Pyramid Network (StruPyNet) is designed, which consists of feature 
 </p>
 
 
-## Network Architecture:
+### Network Architecture:
 
 The detailed CNN architecture of the small flow estimator is shown in Table 1.
 
@@ -24,7 +24,7 @@ The detailed CNN architecture of the small flow estimator is shown in Table 1.
 </p>
 
 
-**Results:**
+### Results:
 
 To achieve optimal generalization performances, there are three training stages. At Stage 1, the models are trained on the FlyingChairs dataset and then fine-tuned on the Things3D dataset at Stage 2. At Stage 3, the models are further fine-tuned on the corresponding Sintel and KITTI datasets. The proposed StruPyNet is evaluated on several public benchmarks at 3 stages respectively, and the results at each stage are compared with baseline methods. In experiments, besides AEPE, two other popular employed metrics are also presented, including Fl-all (the percentage of flow outliers averaged over all regions) and Fl-bg (the percentage of flow outliers averaged over background regions). The results of Stage 1, 2, 3 are respectively shown in Table 2,3,4.  
 
