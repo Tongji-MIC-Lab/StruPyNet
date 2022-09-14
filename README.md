@@ -72,3 +72,4 @@ The comparison of model size is shown in Fig. 3, where it can be observed that t
 Please cite the following papers if you use this code. 
 
 Zefeng Sun, Hanli Wang, Yun Yi, and Qinyu Li, Structural Pyramid Network for Cascaded Optical Flow Estimation, *The 26th International Conference on Multimedia Modeling (MMM’20)*, LNCS 11961, Daejeon, Korea, pp. 455-467, Jan. 5-8, 2020.
+
